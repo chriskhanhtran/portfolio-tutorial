@@ -1,5 +1,7 @@
 # Create a Minimalism GitHub Pages for Your Data Science Portfolio in 30 Minutes
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-chriskhanhtran.github.io-blue?logo=GitHub)](https://chriskhanhtran.github.io/)
+
 In the early days of my journey in data science a year ago, I spent most of my time reading articles on Towards Data Science to create my own Data Science roadmap. The opinions are different in the knowledge one needs to acquire to become a Data Scientist and how to get there, but there is one thing in common: at a point in that journey, one should have a portfolio where she can host her Data Science projects.
 
 I created my first portfolio about 6 months after I wrote my first line of Python, when I completed the [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) on Udemy, to host simple projects I had done during the course. Since then, building and maintaining my portforlio is one of my favorite things to do. I enjoy organizing my ideas, writing them down, explaining things and make them neat.
@@ -21,7 +23,7 @@ After all steps in this tutorial are completed, our GitHub page can be accessed 
 
 To create a new repository, we click on the `+` sign at the top right of the screen, next to our profile picture, and select `New repository`.
 
-<img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/2.PNG?raw=true">
+<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/2.PNG?raw=true"></center>
 
 We fill the repository name with `user-name.github.io`, select **Public** and then click `Create repository`.
 
