@@ -21,7 +21,7 @@ After all steps in this tutorial are completed, our GitHub page can be accessed 
 
 To create a new repository, we click on the `+` sign at the top right of the screen, next to our profile picture, and select `New repository`.
 
-<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/2.PNG?raw=true"></center>
+<img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/2.PNG?raw=true">
 
 We fill the repository name with `user-name.github.io`, select **Public** and then click `Create repository`.
 
