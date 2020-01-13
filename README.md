@@ -12,7 +12,7 @@ In this tutorial, we will step-by-step learn how to build a simple but powerful 
 
 First, we need to sign up a GitHub account at https://github.com/.
 
-<center><img src="images/1.png"></center>
+<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/1.PNG?raw=true"></center>
 
 After signing up, we will log in and move to Step 2.
 
@@ -21,11 +21,11 @@ After all steps in this tutorial are completed, our GitHub page can be accessed 
 
 To create a new repository, we click on the `+` sign at the top right of the screen, next to our profile picture, and select `New repository`.
 
-<center><img src="images/2.png"></center>
+<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/2.PNG?raw=true"></center>
 
 We fill the repository name with `user-name.github.io`, select **Public** and then click `Create repository`.
 
-<center><img src="images/3.png"></center>
+<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/3.PNG?raw=true"></center>
 
 Next, we will upload the theme to this repository. The theme we will use is the [**Jekyll Minimal theme**](https://github.com/pages-themes/minimal). This GitHub [repository](https://github.com/pages-themes/minimal) has a more concise version of the theme.
 
@@ -33,11 +33,11 @@ Next, we will upload the theme to this repository. The theme we will use is the 
 
 To download the theme, we go to https://github.com/evanca/quick-portfolio, click `Clone or download` and select `Download ZIP`.
 
-<center><img src="images/4.png"></center>
+<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/4.PNG?raw=true"></center>
 
 Now, let's open our newly created repository, which is still empty. We will click `uploading an existing file`. After downloading the theme, we unzip the file and upload these files into our repository. After the uploading is complete, we click `Commit changes`.
 
-<center><img src="images/5.png"></center>
+<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/5.PNG?raw=true"></center>
 
 Now, by going to [`user-name.github.io`](https://ktran3-simon.github.io/), we can already see our website! In the next step, we will go through some instructions to customize our portfolio.
 
@@ -47,25 +47,25 @@ Now, by going to [`user-name.github.io`](https://ktran3-simon.github.io/), we ca
 
 Our GitHub page has a two-column layout. On the left is our profile picture and some description, and on the right is the main page where we present our projects. I really like this design because of its simplicity yet efficiency.
 
-<center><img src="images/6.png" width=600></center>
+<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/6.PNG?raw=true"></center>
 
 To customize the sidebar (the left part), we will edit the file `_config.yml` in our repository. We can also add Google Analytics ID to track and analyze traffic to our page.
 
-<center><img src="images/7.png" width=800></center>
+<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/7.PNG?raw=true" width=800></center>
 
 To customize the main page (the right part), where we display our projects, we will need to edit `index.md`. This file is written in `Markdown`. If you frequently work with Jupyter Notebook, you must be very familiar with this language. `Markdown` is very easy to use. Here is a helpful [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) that I often refer to.
 
-<center><img src="images/8.png" width=600></center>
+<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/8.PNG?raw=true" width=600></center>
 
 #### (Optional) More Customizations
 
 As we customize the sidebar, we will see that we cannot edit the last two lines by editting `_config.yml`:
 
-<center><img src="images/9.png"></center>
+<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/9.PNG?raw=true"></center>
 
 To remove them, we need go to the original repository of the [**Jekyll Minimal theme**](https://github.com/pages-themes/minimal), and copy the content of `default.html` in `_layouts`. Then we create `_layouts/default.html` in our repository by clicking `Creating new file` and typing `_layouts/default.html`, paste the copied content here and commit.
 
-<center><img src="images/10.png"></center>
+<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/10.PNG?raw=true"></center>
 
 Now we can remove lines 29-31 in `_layouts/default.html` to remove **View My GitHub Profile**,
 
@@ -96,11 +96,11 @@ We can also write blog posts in `Markdown` and upload them to our repository. Yo
 ### Badges with Shields.io
 In official repositories on GitHub, we usually see authors use badges to show the status of their project. For example:
 
-<center><img src="images/11.png"></center>
+<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/11.PNG?raw=true"></center>
 
 I really like to use these badges to embed links with call for actions, such as:
 
-<center><img src="images/12.png"></center>
+<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/12.PNG?raw=true"></center>
 
 You can go to https://shields.io/ to create your own badges. Basically, we just need to create links in a specific format and use them as image links.
 
@@ -130,7 +130,7 @@ There are several other themes that we can utilize to be more creative with our 
 - Cayman: [repo](https://github.com/pages-themes/cayman) | [preview](https://pages-themes.github.io/cayman/)
 - Minimal Mistake: [repo](https://github.com/mmistakes/minimal-mistakes) | [preview](https://mmistakes.github.io/minimal-mistakes/collection-archive/). I really like [this portfolio](https://leimao.github.io/) where the author uses this theme.
 
-<center><img src="images/13.png" width=700></center>
+<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/13.PNG?raw=true" width=700></center>
 <center> A preview of the Minimal Mistake Theme </center>
     
 ### Content of Your Portfolio
