@@ -10,7 +10,7 @@ In this tutorial, we will step-by-step learn how to build a simple but powerful 
 
 ## Step 1: Create a GitHub Account
 
-First, we need to sign up a GitHub account at https://github.com/.
+First, we need to sign up a GitHub account at [https://github.com/](https://github.com/).
 
 <center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/1.PNG?raw=true"></center>
 
@@ -47,7 +47,7 @@ Now, by going to [`user-name.github.io`](https://ktran3-simon.github.io/), we ca
 
 Our GitHub page has a two-column layout. On the left is our profile picture and some description, and on the right is the main page where we present our projects. I really like this design because of its simplicity yet efficiency.
 
-<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/6.PNG?raw=true"></center>
+<center><img src="https://github.com/chriskhanhtran/portfolio-tutorial/blob/master/images/6.PNG?raw=true" width=600></center>
 
 To customize the sidebar (the left part), we will edit the file `_config.yml` in our repository. We can also add Google Analytics ID to track and analyze traffic to our page.
 
