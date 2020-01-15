@@ -152,9 +152,6 @@ I also made some changes in my portfolio compared to the original version, such 
 - change `max-width` in `section` to change the width of the main page
 - change `width` in `header` to change the width of the side bar
 
-<center><img src="https://raw.githubusercontent.com/chriskhanhtran/portfolio-tutorial/master/images/portfolio.gif"></center>
-<center> My GitHub Page</center>
-
 ### Last Words
 Having completed your minimalism portfolio, you now can remove or modify these files in your repository:
 - **LICENSE**
